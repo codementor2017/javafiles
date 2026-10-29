@@ -39,7 +39,7 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
       font-size: 23px !important;
       line-height: 1.5 !important;
-      background-color: #AA93B8 !important;
+      background-color: #7927ac !important;
       color: #F3D3A7 !important;
       border: 2px solid #C88561 !important;
       box-shadow: 0 8px 20px rgba(43, 32, 24, 0.3) !important;
