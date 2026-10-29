@@ -10,6 +10,7 @@
   const VERSES = [
     { text: "เพราะว่าพระเจ้าทรงรักโลก จนได้ประทานพระบุตรองค์เดียวของพระองค์ เพื่อทุกคนที่วางใจในพระบุตรนั้นจะไม่พินาศ แต่มีชีวิตนิรันดร์", reference: "John 3:16" },
     { text: "I can do all this through him who gives me strength.", reference: "Philippians 4:13" },
+    {text: "เรามอบสันติสุขไว้กับพวกท่าน สันติสุขของเราที่ให้ความแก่ท่านนั้น เราไม่ได้ให้อย่างที่โลกให้ อย่าให้ใจของท่านวิตก และอย่ากลัวเลย", reference: "John 14:27"},
     { text: "The Lord is my shepherd; I shall not want.", reference: "Psalm 23:1" },
     { text: "Trust in the Lord with all your heart and lean not on your own understanding.", reference: "Proverbs 3:5" },
     { text: "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.", reference: "Joshua 1:9" },
