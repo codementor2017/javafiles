@@ -39,9 +39,9 @@
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
       font-size: 23px !important;
       line-height: 1.5 !important;
-      background-color: #7927ac !important;
+      background-color: #076920 !important;
       color: #f5f2ef !important;
-      border: 2px solid #C88561 !important;
+      border: 2px solid #48d315 !important;
       box-shadow: 0 8px 20px rgba(43, 32, 24, 0.3) !important;
       text-align: left !important;
       user-select: none !important;
